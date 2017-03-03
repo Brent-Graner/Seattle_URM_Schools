@@ -1,2 +1,5 @@
 # Seattle_URM_Schools
-An exploration of seismic risk to Seattle's public school buildings using Python/Pandas and municipal data
+#In the event of a major earthquake, un-reinforced masonry (URM) buildings are considered to be among the most hazardous structures to occupy. As seismologists become increasingly aware of the potential for major earthquakes in the Pacific Northwest, the municipal gonvernment of Seattle has compiled a list of URM buildings throughout the city. Structural engineers have evaluated each building for risk level based primarily on whether it is known to have adequate seismic retrofits.This project involves an analysis of Seattle's list of URM buildings to glean some insights into relative risk levels for various public buildings. The project is intended to be self-documenting. Source data is publicly available and can be found at 
+#https://data.seattle.gov/Permitting/Unreinforced-Masonry-Buildings/54qs-2h7f
+#Much more information about Washington's un-preparedness for a major earthquake and the inspiration for this project can be 
+#found at http://projects.seattletimes.com/2016/seismic-neglect/
